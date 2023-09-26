@@ -1,0 +1,29 @@
+body {
+  background-color: #00409f;
+}
+
+h1{
+  font-size: 25px;
+  margin: 1vh;
+}
+section {
+  background-color: #007aaa;
+  height: 30vh;
+  width: 50vh;
+  color: #fff;
+  text-align: center;
+  position: absolute;
+  right: 80vh;
+  bottom: 40vh;
+}
+p{
+  font-size: 25px;
+  margin: 1vh;
+  color:bisque;
+}
+
+button {
+  font-size: 20px;
+  border-radius: 20px;;
+  background-color: #6ecff6;
+}
